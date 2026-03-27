@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ADVOID | Advanced Digital Void</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar">
+<div class="container">
+<a href="#" class="logo"><img src="Design Elements/advoid-logo.PNG" alt="ADVOID" height="40"></a>
+<ul class="nav-links">
+<li><a href="#process">Process</a></li>
+<li><a href="#services">Services</a></li>
+<li><a href="#portfolio">Work</a></li>
+<li><a href="#major-tom">Major T.O.M.</a></li>
+<li><a href="#contact" class="cta-nav">Start Project</a></li>
+</ul>
+</div>
+</nav>
+
+<section class="hero">
+<div class="hero-gradient"></div>
+<div class="container">
+<div class="hero-content">
+<h1>Welcome to the Void.</h1>
+<p class="hero-subtitle">Advanced Digital Void is a strategy-led creative agency building brands that do not blend in.</p>
+<div class="hero-cta">
+<a href="#contact" class="btn-primary">Start a Project</a>
+<a href="#major-tom" class="btn-secondary">Ask Major T.O.M.</a>
+</div>
+</div>
+</div>
+</section>
+
+<section id="process" class="process">
+<div class="container">
+<h2 class="section-title">Enter the Void</h2>
+<div class="process-grid">
+<div class="process-step">
+<div class="step-node">01</div>
+<h3>Define Your Brand</h3>
+<p>Clarify position, voice, identity.</p>
+</div>
+<div class="process-step">
+<div class="step-node">02</div>
+<h3>Build Strategy</h3>
+<p>Data-driven audience reach.</p>
+</div>
+<div class="process-step">
+<div class="step-node">03</div>
+<h3>Create Content</h3>
+<p>Scroll-stopping creative.</p>
+</div>
+<div class="process-step">
+<div class="step-node">04</div>
+<h3>Launch & Scale</h3>
+<p>Deploy, measure, optimize.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="services" class="services">
+<div class="container">
+<h2 class="section-title">Services</h2>
+<div class="services-grid">
+<div class="service-glass"><h3>Paid Media Strategy</h3><p>Meta, TikTok, Google optimized for ROAS.</p></div>
+<div class="service-glass"><h3>Ad Creative</h3><p>Static and motion assets.</p></div>
+<div class="service-glass"><h3>Reels & Short Form</h3><p>Native attention economy content.</p></div>
+<div class="service-glass"><h3>Copywriting</h3><p>Words that drive action.</p></div>
+<div class="service-glass"><h3>Campaign Development</h3><p>End-to-end creative.</p></div>
+<div class="service-glass"><h3>Influencer Integration</h3><p>Strategic creator partnerships.</p></div>
+</div>
+</div>
+</section>
+
+<section id="major-tom" class="major-tom">
+<div class="container">
+<h2>Need Direction? Ask Major T.O.M.</h2>
+<p class="tom-subtitle">Your AI marketing operator. Ask anything.</p>
+<div class="chat-mockup">
+<div class="chat-bubble user">How do I grow my brand?</div>
+<div class="chat-bubble tom">Start with positioning. What makes you the only choice?</div>
+</div>
+<a href="#" class="btn-primary">Ask Major T.O.M.</a>
+</div>
+</section>
+
+<section id="contact" class="contact">
+<div class="container">
+<h2>Start Your Project</h2>
+<form class="project-form">
+<input type="text" placeholder="Name" required>
+<input type="email" placeholder="Email" required>
+<textarea placeholder="Tell us about your project..." rows="4"></textarea>
+<button type="submit" class="btn-primary">Submit</button>
+</form>
+</div>
+</section>
+
+<footer class="footer">
+<div class="container">
+<p>&copy; 2026 ADVOID. All rights reserved.</p>
+</div>
+</footer>
+</body>
+</html>
