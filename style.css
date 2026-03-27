@@ -108,7 +108,7 @@ background: linear-gradient(135deg, var(--white) 0%, var(--violet) 100%);
 
 .hero-subtitle {
 font-size: 20px;
-color: var(--gray);
+color: var(--white);
 margin-bottom: 40px;
 }
 
@@ -193,7 +193,7 @@ margin-bottom: 12px;
 }
 
 .process-step p {
-color: var(--gray);
+color: var(--white);
 font-size: 14px;
 }
 
@@ -227,7 +227,7 @@ margin-bottom: 12px;
 }
 
 .service-glass p {
-color: var(--gray);
+color: var(--white);
 font-size: 14px;
 }
 
